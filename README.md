@@ -1,14 +1,14 @@
 # How to Organize an Overnight Stay
 
-To arrange an overnight stay, you need to plan several things in advance: 
+To arrange an overnight stay, you need to plan several things in advance:
 
-- place,
-- guests,
-- sleeping places,
-- entertainment,
-- food;
+- a place  
+- guests  
+- sleeping places  
+- entertainment  
+- food
 
- It is also important to take into account the age of the guests and their preferences.
+It is also important to take into account the age of the guests and their preferences.
 
 Here are a few steps that will help you organize a great overnight stay:
 
@@ -17,7 +17,7 @@ Here are a few steps that will help you organize a great overnight stay:
 ## 1. Planning
 
 - **Determine the location**  
-  It can be your house, cottage, a tent in the forest, or  rented room.
+  It can be your house, a cottage, a tent in the forest, or a rented room.
 
 - **Make a guest list**  
   Consider how many people you plan to invite and who exactly.
@@ -29,23 +29,24 @@ Here are a few steps that will help you organize a great overnight stay:
   You can send out electronic invitations or deliver them in person.
 
 - **Make an entertainment plan**  
-  Think about what you’ll do:
+  Think about what you’ll do:  
   - Watch movies  
   - Play board games  
   - Dance  
   - Sing campfire songs
 
 - **Buy food and drinks**  
-  Take into account guest preferences and make sure there’s enough for everyone.
+  Take into account guest preferences and ensure there’s enough for everyone.
 
 - **Prepare a place to sleep**  
-  Provide enough sleeping arrangements:
-  - mattresses,
-  - sleeping bags,
-  - blankets,
+  Provide enough sleeping arrangements:  
+  - mattresses  
+  - sleeping bags  
+  - blankets  
   - pillows
+
 - **Prepare entertainment items**  
-  Games, movies, music, and board games are all helpful for having fun.
+  Games, movies, music, and board games are all useful for having fun.
 
 ---
 
@@ -64,7 +65,7 @@ Here are a few steps that will help you organize a great overnight stay:
   Set up table lamps, lanterns, or garlands.
 
 - **Set up a food and drink area**  
-  Arrange a table or designated snack zone.
+  Arrange a table or a designated snack zone.
 
 ---
 
@@ -97,7 +98,29 @@ Here are a few steps that will help you organize a great overnight stay:
 
 ---
 
-##  Tips
+## 5. Safety and Comfort
+
+- **Provide contact information**  
+  If guests are children or teens, ensure their guardians have your contact details.
+
+- **Share house rules**  
+  Gently explain any rules about noise, off-limits rooms, or behavior.
+
+- **Ensure accessibility**  
+  Make sure the bathroom, sleeping areas, and exits are easy to reach and well lit.
+
+- **Prepare for emergencies**  
+  Keep a basic first aid kit nearby and know where your phone and charger are in case of urgent situations.
+
+- **Respect personal space**  
+  Give guests options for privacy (like extra blankets, eye masks, or a quiet corner to relax).
+
+- **Adjust temperature**  
+  Have fans or extra blankets available depending on the weather.
+
+---
+
+## 6. Tips
 
 - **Consider the age of the guests**  
   Younger children may need more entertainment and supervision.
